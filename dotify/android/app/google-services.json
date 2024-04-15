@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "358035968151",
+    "firebase_url": "https://dotify-streamer-default-rtdb.firebaseio.com",
+    "project_id": "dotify-streamer",
+    "storage_bucket": "dotify-streamer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358035968151:android:b7f240701c0b14395b59d2",
+        "android_client_info": {
+          "package_name": "com.dotify.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzOs1HKQiy7AzqgGz1UFHxXE2BAzht3FE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
